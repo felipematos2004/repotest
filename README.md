@@ -1,3 +1,1 @@
-# repotest
-para testes
-isso funciona mesmo?????
+# Trilha JS Developer - Pokedex
